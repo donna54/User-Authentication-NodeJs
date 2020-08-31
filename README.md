@@ -9,9 +9,9 @@ A backend project encompassing user authentication for any website. Includes ema
 To install this example on your computer, clone the repository and install dependencies.
 
 ```bash
-git clone git@github.com:donna54/User-Authentication-NodeJs.git
-cd User-Authentication-NodeJs
-npm install
+$ git clone git@github.com:donna54/User-Authentication-NodeJs.git
+$ cd User-Authentication-NodeJs
+$ npm install
 ```
 
 The example uses environment variables to configure various parameters. Start the server with those variables set to the appropriate credentials.
@@ -19,7 +19,7 @@ The example uses environment variables to configure various parameters. Start th
 ### Start server on localhost
 
 ```bash
-npm run start
+$ npm run start
 ```
 
 All routes can be tested with any software development tool like Postman.
